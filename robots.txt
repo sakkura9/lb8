@@ -21,7 +21,7 @@ Allow: /
 
 # Указываем путь к карте сайта
 # ВНИМАНИЕ: Замените URL на свой реальный адрес!
-Sitemap: https://ВАШ_USERNAME.github.io/seo-practice-8/sitemap.xml
+Sitemap: https://sakkura9.github.io/lb8/sitemap.xml
 
 # Дополнительные настройки для конкретных роботов:
 

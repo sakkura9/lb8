@@ -12,7 +12,7 @@
     
     <!-- ГЛАВНАЯ СТРАНИЦА -->
     <url>
-        <loc>https://ВАШ_USERNAME.github.io/seo-practice-8/</loc>
+        <loc>https://sakkura9.github.io/lb8/</loc>
         <lastmod>2025-10-28</lastmod>
         <changefreq>daily</changefreq>
         <priority>1.0</priority>
@@ -20,7 +20,7 @@
     
     <!-- СТРАНИЦА "О ПРОЕКТЕ" -->
     <url>
-        <loc>https://ВАШ_USERNAME.github.io/seo-practice-8/about.html</loc>
+        <loc>https://sakkura9.github.io/lb8/about.html</loc>
         <lastmod>2025-10-28</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
@@ -28,7 +28,7 @@
     
     <!-- ФАЙЛ ROBOTS.TXT -->
     <url>
-        <loc>https://ВАШ_USERNAME.github.io/seo-practice-8/robots.txt</loc>
+        <loc>https://sakkura9.github.io/lb8/robots.txt</loc>
         <lastmod>2025-10-28</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.1</priority>
@@ -36,7 +36,7 @@
     
     <!-- ФАЙЛ SITEMAP.XML -->
     <url>
-        <loc>https://ВАШ_USERNAME.github.io/seo-practice-8/sitemap.xml</loc>
+        <loc>https://sakkura9.github.io/lb8/sitemap.xml</loc>
         <lastmod>2025-10-28</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.1</priority>
