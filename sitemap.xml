@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- ============================================ -->
+<!-- Sitemap для сайта SEO Практика               -->
+<!-- Автоматически сгенерировано: 2025-10-28     -->
+<!-- Автор: Студент [Ваше Имя]                   -->
+<!-- ============================================ -->
+
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+                            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+    
+    <!-- ГЛАВНАЯ СТРАНИЦА -->
+    <url>
+        <loc>https://ВАШ_USERNAME.github.io/seo-practice-8/</loc>
+        <lastmod>2025-10-28</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
+    </url>
+    
+    <!-- СТРАНИЦА "О ПРОЕКТЕ" -->
+    <url>
+        <loc>https://ВАШ_USERNAME.github.io/seo-practice-8/about.html</loc>
+        <lastmod>2025-10-28</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <!-- ФАЙЛ ROBOTS.TXT -->
+    <url>
+        <loc>https://ВАШ_USERNAME.github.io/seo-practice-8/robots.txt</loc>
+        <lastmod>2025-10-28</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.1</priority>
+    </url>
+    
+    <!-- ФАЙЛ SITEMAP.XML -->
+    <url>
+        <loc>https://ВАШ_USERNAME.github.io/seo-practice-8/sitemap.xml</loc>
+        <lastmod>2025-10-28</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.1</priority>
+    </url>
+    
+    <!-- ============================================ -->
+    <!-- КОММЕНТАРИИ:                                 -->
+    <!--                                              -->
+    <!-- <loc>        - полный URL страницы          -->
+    <!-- <lastmod>    - дата последнего изменения    -->
+    <!--                формат: ГГГГ-ММ-ДД           -->
+    <!-- <changefreq> - частота изменений:           -->
+    <!--                always, hourly, daily,       -->
+    <!--                weekly, monthly, yearly,     -->
+    <!--                never                        -->
+    <!-- <priority>   - приоритет: от 0.0 до 1.0     -->
+    <!--                1.0 - максимальный приоритет -->
+    <!-- ============================================ -->
+    
+</urlset>

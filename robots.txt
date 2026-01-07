@@ -1,0 +1,53 @@
+# ============================================
+# Файл robots.txt для сайта SEO Практика
+# Создан: 2025-10-28
+# Автор: Студент [Ваше Имя]
+# ============================================
+
+# Разрешаем доступ всем поисковым роботам
+User-agent: *
+
+# Запрещаем сканирование следующих разделов:
+Disallow: /private/          # Закрытые разделы
+Disallow: /admin/            # Админ-панель
+Disallow: /tmp/              # Временные файлы
+Disallow: /cgi-bin/          # CGI скрипты
+Disallow: /logs/             # Логи сервера
+Disallow: /backup/           # Резервные копии
+Disallow: /secret/           # Секретные данные
+
+# Явно разрешаем сканировать главную страницу
+Allow: /
+
+# Указываем путь к карте сайта
+# ВНИМАНИЕ: Замените URL на свой реальный адрес!
+Sitemap: https://ВАШ_USERNAME.github.io/seo-practice-8/sitemap.xml
+
+# Дополнительные настройки для конкретных роботов:
+
+# Для Googlebot
+User-agent: Googlebot
+Allow: /
+Disallow: /private/
+Crawl-delay: 1
+
+# Для YandexBot
+User-agent: YandexBot
+Allow: /
+Disallow: /private/
+Clean-param: ref /search/
+Crawl-delay: 2
+
+# Для Bingbot
+User-agent: Bingbot
+Allow: /
+Disallow: /private/
+
+# ============================================
+# КОММЕНТАРИИ:
+# 1. User-agent: * - правило для всех роботов
+# 2. Disallow - запрещает доступ к указанным разделам
+# 3. Allow - разрешает доступ (имеет приоритет над Disallow)
+# 4. Sitemap - указывает путь к карте сайта
+# 5. Crawl-delay - задержка между запросами (в секундах)
+# ============================================
